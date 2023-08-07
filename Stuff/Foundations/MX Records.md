@@ -1,0 +1,1 @@
+**Stands for Mail Exchange Records used for validation**
